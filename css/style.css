@@ -20,7 +20,12 @@ a{
     font-size: 16px;
     font-weight: 700;
     line-height: 19px;
-    color: rgb(13, 19, 33);
+    color: #0d1321;
+    transition: .3s;
+}
+.learn_btn a:hover{
+    background: #0d1321;
+    color: #ffffff;
 }
 .title_h h3{
     font-size: 32px;
